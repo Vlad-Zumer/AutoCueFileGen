@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CueFileGen", "CueFileGen\CueFileGen.csproj", "{85CC0C03-802D-4780-A5D3-CE24031D85B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CC0C03-802D-4780-A5D3-CE24031D85B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CC0C03-802D-4780-A5D3-CE24031D85B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CC0C03-802D-4780-A5D3-CE24031D85B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CC0C03-802D-4780-A5D3-CE24031D85B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AEF73FA-80E6-4862-834F-3B9F9F415E39}
+	EndGlobalSection
+EndGlobal
